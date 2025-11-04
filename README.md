@@ -8,3 +8,5 @@
    <img width="461" height="607" alt="ping setelah konfigurasi" src="https://github.com/user-attachments/assets/b02eebc1-a666-4652-9248-2f47c034ef8d" />
    proses ping sudah berhasil setelah konfigurasi dilakukan pada perangkat jaringan yang terlibat. Hal ini terjadi karena router, switch, dan PC telah diberikan parameter jaringan yang benar, seperti alamat IP, gateway, aktivasi interface, serta pengaturan routing sehingga perangkat dapat saling mengenali dan meneruskan paket data dengan benar. Setelah konfigurasi diterapkan, tabel routing pada router mulai berisi informasi jaringan tujuan, sementara switch dapat mempelajari MAC address melalui forwarding, memungkinkan pengiriman paket ICMP tanpa hambatan. Selain itu, koneksi fisik antar perangkat juga sudah aktif dengan status interface yang “up”, sehingga jalur komunikasi terbentuk. Akibatnya, paket ping dapat mencapai alamat tujuan dan menghasilkan balasan (reply) yang menunjukkan bahwa jaringan telah berfungsi secara normal.
 
+**LINK YOUTUBE**
+https://www.youtube.com/watch?v=ctAFXR2cmq4
